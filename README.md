@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+👋 Hi, I'm Pauline!
+🔭 I'm currently working as a project manager in academia but am looking for data jobs in industry
+🌱 Python & SQL
+💬 How to reach me: https://www.linkedin.com/in/pauline-cuperus/
 
 <!--
 **PaulineAC/PaulineAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
