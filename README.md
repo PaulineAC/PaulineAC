@@ -2,7 +2,7 @@
 🔭 I have recently finished my PhD in cognitive science and am currently working as a project manager. <br />
 💬 I have had different types of jobs in the past (marketing, teaching, project management, research), <br />
    and they have all had a common theme: Communicating!<br />
-😄 I am currently looking for a job that will allow me to communicate about one of my favourite things: Data.<br />
+😄 I am currently looking for a job that will allow me to communicate about one of my favourite things: Data! <br />
 📫 How to reach me: https://www.linkedin.com/in/pauline-cuperus/<br />
 <br />
 Here, I will share some projects that I have been working on.<br />
