@@ -1,8 +1,11 @@
-### 
-👋 Hi, I'm Pauline! <br />
-🔭 I'm currently working as a project manager in academia but am looking for data jobs in industry <br />
-🌱 Python & SQL <br />
-💬 How to reach me: https://www.linkedin.com/in/pauline-cuperus/
+### 👋 Hi, I'm Pauline!
+🔭 I have recently finished my PhD in cognitive science and am currently working as a project manager. <br />
+💬 I have had different types of jobs in the past (marketing, teaching, project management, research), <br />
+and they have all had a common theme: Communicating!
+😄 I am currently looking for a job that will allow me to communicate about one of my favourite things: Data.
+📫 How to reach me: https://www.linkedin.com/in/pauline-cuperus/
+
+Here, I will share some projects that I have been working on.
 
 <!--
 **PaulineAC/PaulineAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
