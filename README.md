@@ -6,7 +6,7 @@
 📫 How to reach me: https://www.linkedin.com/in/pauline-cuperus/<br />
 <br />
 Here, I will share some projects that I have been working on:<br />
-~ Olympics: In this project, I explore data from all Olympic athletes since 1974 and use a Random Forest Classifier <br />
+~ Olympics: In this project, I explore data from all Olympic athletes since 1974 and create a Random Forest Classifier <br />
   with 86% accuracy to classify whether athletes won a medal or not.
 
 <!--
