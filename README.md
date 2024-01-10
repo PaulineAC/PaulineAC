@@ -7,7 +7,9 @@
 <br />
 On this page, I will share some projects that I have been working on:<br />
 ~ Olympics: In this project, I explore data from all Olympic athletes since 1974 and create a Random Forest Classifier <br />
-  with 86% accuracy to classify whether athletes won a medal or not.
+  with 86% accuracy to classify whether athletes won a medal or not.<br />
+
+To be continued...
 
 <!--
 **PaulineAC/PaulineAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
