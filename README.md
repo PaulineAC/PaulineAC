@@ -11,7 +11,7 @@ On this page, I will share some projects that I have been working on:<br />
 - Gym_Visitors: Here I make recommendations to a (fictional) gym holder on how to improve marketing/promotion strategies
   for their campus gym and on how staffing at this gym can be optimised. I do this by looking particularly at the number of
   visitors periods throughout the day and year and additionally by using a K-Nearest Neighbors regressor and a Random Forest
-  Regressor (r-squared = .93) to try to predict the number of visitors hourly at the gym.  <br />
+  Regressor to try to predict the number of visitors hourly at the gym.  <br />
 
 More projects coming soon!
 
