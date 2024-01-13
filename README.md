@@ -12,7 +12,9 @@ On this page, I will share some projects that I have been working on:<br />
   for their campus gym and on how staffing at this gym can be optimised. I do this by looking particularly at the number of
   visitors periods throughout the day and year and additionally by using a K-Nearest Neighbors regressor and a Random Forest
   Regressor to try to predict the number of visitors hourly at the gym.  <br />
-
+<br />
+Currently working on: A Tableau dashboard. <br />
+<br />
 More projects coming soon!
 
 <!--
