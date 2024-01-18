@@ -8,7 +8,7 @@
 On this page, I will share some projects that I have been working on:<br />
 - Olympics: In this project, I explore data from all Olympic athletes since 1974 and create a Random Forest Classifier
   with 86% accuracy to classify whether athletes won a medal or not.<br />
-- Gym_Visitors: Here I make recommendations to a (fictional) gym holder on how to improve marketing/promotion strategies
+- Gym Visitors: Here I make recommendations to a (fictional) gym holder on how to improve marketing/promotion strategies
   for their campus gym and on how staffing at this gym can be optimised. I do this by looking particularly at the number of
   visitors periods throughout the day and year and additionally by using a K-Nearest Neighbors regressor and a Random Forest
   Regressor to try to predict the number of visitors hourly at the gym.  <br />
