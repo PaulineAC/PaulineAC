@@ -12,8 +12,9 @@ On this page, I will share some projects that I have been working on:<br />
   for their campus gym and on how staffing at this gym can be optimised. I do this by looking particularly at the number of
   visitors periods throughout the day and year and additionally by using a K-Nearest Neighbors regressor and a Random Forest
   Regressor to try to predict the number of visitors hourly at the gym.  <br />
+- Customer Clustering: After thoroughly exploring data from a supermarket data and thinking critically about the most suitable feature engineering, I use K-means clustering to find six distinct customer profiles. These insights can be used to optimise recommendations to customers, as well as targeted marketing. 
 <br />
-Currently working on: A Tableau dashboard & a project involving K-means clustering. <br />
+Currently working on: A Tableau dashboard! <br />
 <br />
 More projects coming soon!
 
